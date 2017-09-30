@@ -1,0 +1,35 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-size:100%;
+}
+
+label{
+	color:green;
+	text-align:center;
+}
+
+#container	{
+	border:black 2px solid;
+	margin:auto;
+	margin-left:10%;
+	margin-right:10%;
+	padding-bottom:500px;
+	text-align:center;
+}
+
+#director-input	{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#bContainer	{
+
+}
+
+#gif-Container	{
+
+}
